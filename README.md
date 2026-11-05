@@ -24,7 +24,7 @@ These preview images come from our books' approved promotional materials. They s
 | :---: | :---: |
 | <img src="interiors/2026-10-31/big_planes/slide_01.jpg" width="280" alt="Actual Level 3 aircraft colouring activity page preview"> | <img src="interiors/2026-10-31/big_planes/slide_04.jpg" width="280" alt="Actual Big Planes Master Pilot certificate page preview"> |
 
-### How colour-by-dots works
+**For parents and educators:** [Try our free three-colour vehicle spotting activity](editorial/vehicle-colour-spotting-activity.md) — a short original idea that works with any vehicle picture. No purchase required.\n\n### How colour-by-dots works
 
 1. Find the coloured dots on parts of the vehicle picture.
 2. Match those colours to the marked parts.
