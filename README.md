@@ -24,7 +24,9 @@ These preview images come from our books' approved promotional materials. They s
 | :---: | :---: |
 | <img src="interiors/2026-10-31/big_planes/slide_01.jpg" width="280" alt="Actual Level 3 aircraft colouring activity page preview"> | <img src="interiors/2026-10-31/big_planes/slide_04.jpg" width="280" alt="Actual Big Planes Master Pilot certificate page preview"> |
 
-**For parents and educators:** [Try our free three-colour vehicle spotting activity](editorial/vehicle-colour-spotting-activity.md) — a short original idea that works with any vehicle picture. No purchase required.\n\n### How colour-by-dots works
+**For parents and educators:** [Try our free three-colour vehicle spotting activity](editorial/vehicle-colour-spotting-activity.md) — a short original idea that works with any vehicle picture. No purchase required.
+
+### How colour-by-dots works
 
 1. Find the coloured dots on parts of the vehicle picture.
 2. Match those colours to the marked parts.
@@ -35,7 +37,7 @@ These preview images come from our books' approved promotional materials. They s
 
 ### More from Little Hands
 
-- **Little Hands Fast Cars: Coloring Book:** a third vehicle adventure by Captain Steff; **awaiting Amazon review**, so no purchase link is given here yet.
+- **Little Hands Fast Cars: Coloring Book** by Captain Steff is now available in paperback on Amazon.com. **[View Fast Cars paperback on Amazon.com](https://www.amazon.com/dp/B0HQYS1XXW)**.
 - [Little Hands Coloring Books on Facebook](https://www.facebook.com/littlehands.coloringbooks/)
 - [Little Hands Coloring Books on Instagram](https://www.instagram.com/littlehands.coloringbooks/)
 
