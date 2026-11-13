@@ -32,7 +32,7 @@ These preview images come from our books' approved promotional materials. They s
 | :---: | :---: |
 | <img src="interiors/2026-10-31/big_planes/slide_01.jpg" width="280" alt="Actual Level 3 aircraft colouring activity page preview"> | <img src="interiors/2026-10-31/big_planes/slide_04.jpg" width="280" alt="Actual Big Planes Master Pilot certificate page preview"> |
 
-**For parents and educators:** [Try our free three-colour vehicle spotting activity](https://little-hands-coloring-books.sublimecypress2.chatgpt.site/vehicle-colour-spotting.html) — a short original idea that works with any vehicle picture. No purchase required.
+**For parents and educators:** [Try our free three-colour vehicle spotting activity](https://little-hands-coloring-books.sublimecypress2.chatgpt.site/vehicle-colour-spotting) — a short original idea that works with any vehicle picture. No purchase required.
 
 ### How colour-by-dots works
 

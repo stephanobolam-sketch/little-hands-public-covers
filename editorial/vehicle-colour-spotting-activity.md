@@ -40,7 +40,7 @@ This **original activity description** may be considered for an unpaid editorial
 
 The links use our current edition identifiers. Amazon controls price, delivery and availability.
 
-[Read the free activity on our website](https://little-hands-coloring-books.sublimecypress2.chatgpt.site/vehicle-colour-spotting.html).
+[Read the free activity on our website](https://little-hands-coloring-books.sublimecypress2.chatgpt.site/vehicle-colour-spotting).
 
 More genuine page examples: [Big Machines](https://www.instagram.com/p/DfKAKkSjhds/) · [Big Planes](https://www.instagram.com/p/DfKCru7CCb-/). [Little Hands on Facebook](https://www.facebook.com/littlehands.coloringbooks/).
 
