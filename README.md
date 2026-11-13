@@ -2,6 +2,10 @@
 
 **Real vehicle colouring activities. Four progressive colour-by-dots levels. Completion rewards.**
 
+**Explore the books and their real approved page previews:** [Little Hands collection](index.html) · [Big Machines construction vehicle colouring](big-machines.html) · [Big Planes airplane and helicopter colouring](big-planes.html) · [Fast Cars racing car colouring](fast-cars.html).
+
+
+
 From **Captain Steff**, the *Little Hands* books let young vehicle fans find the coloured dots, match the marked parts of the picture, then choose their own colours for the rest. Each book progresses through **3, 4, 5 and 6 colour cues**. Adults can help children cut out completion rewards.
 
 ## Buy the three books
