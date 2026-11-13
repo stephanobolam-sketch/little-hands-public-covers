@@ -26,7 +26,7 @@ These are **promotional previews of actual approved book pages**, not free print
 | :---: | :---: |
 | ![Actual Big Planes Level 3 aircraft colour-by-dots activity preview](../interiors/2026-10-31/big_planes/slide_01.jpg) | ![Actual Big Planes Master Pilot certificate page preview](../interiors/2026-10-31/big_planes/slide_04.jpg) |
 
-The books use a four-level colour-by-dots progression (three, four, five, then six colour clues). Big Machines has completion garage rewards; Big Planes features hangar rewards and a Master Pilot certificate. An adult should help with any cut-out page.
+The books use a four-level colour-by-dots progression (three, four, five, then six colour clues). Fast Cars adds black as a surprise seventh colour in Level 4, with garage completion rewards. Big Machines has completion garage rewards; Big Planes features hangar rewards and a Master Pilot certificate. An adult should help with any cut-out page.
 
 ## For parenting and education editors
 
@@ -36,8 +36,11 @@ This **original activity description** may be considered for an unpaid editorial
 
 - [Little Hands Big Machines — paperback listing](https://www.amazon.com/dp/B0HQ1CDZ77)
 - [Little Hands Big Planes — paperback listing](https://www.amazon.com/dp/B0HPZVLV5T)
+- [Little Hands Fast Cars — paperback listing](https://www.amazon.com/dp/B0HQYS1XXW)
 
-The links use our current edition identifiers. Actual Amazon.com purchase availability varies by marketplace and has **not been independently confirmed in this resource**.
+The links use our current edition identifiers. Amazon controls price, delivery and availability.
+
+[Read the free activity on our website](https://little-hands-coloring-books.sublimecypress2.chatgpt.site/vehicle-colour-spotting.html).
 
 More genuine page examples: [Big Machines](https://www.instagram.com/p/DfKAKkSjhds/) · [Big Planes](https://www.instagram.com/p/DfKCru7CCb-/). [Little Hands on Facebook](https://www.facebook.com/littlehands.coloringbooks/).
 
