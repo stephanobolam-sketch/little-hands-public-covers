@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://little-hands-coloring-books.sublimecypress2.chatgpt.site/sitemap.xml

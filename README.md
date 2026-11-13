@@ -4,11 +4,13 @@
 
 **Choose a book on Amazon US:** [Big Machines — construction vehicle colouring](https://www.amazon.com/dp/B0HQ1CDZ77) · [Big Planes — airplane and helicopter colouring](https://www.amazon.com/dp/B0HPZVLV5T) · [Fast Cars — racing car colouring](https://www.amazon.com/dp/B0HQYS1XXW).
 
-Scroll down to see real approved activity-page previews before choosing.
+Visit the [Little Hands book website](https://little-hands-coloring-books.sublimecypress2.chatgpt.site/) for book details, real page previews and a free activity.
+
+Scroll down to see activity-page previews before choosing.
 
 
 
-From **Captain Steff**, the *Little Hands* books let young vehicle fans find the coloured dots, match the marked parts of the picture, then choose their own colours for the rest. Each book progresses through **3, 4, 5 and 6 colour cues**. Adults can help children cut out completion rewards.
+From **Captain Steff**, the *Little Hands* books let young vehicle fans find the coloured dots, match the marked parts of the picture, then choose their own colours for the rest. Each book progresses through **3, 4, 5 and 6 colour cues**. Fast Cars adds **black as a surprise seventh colour** in Level 4. Adults can help children cut out completion rewards.
 
 ## Buy the three books
 
@@ -30,7 +32,7 @@ These preview images come from our books' approved promotional materials. They s
 | :---: | :---: |
 | <img src="interiors/2026-10-31/big_planes/slide_01.jpg" width="280" alt="Actual Level 3 aircraft colouring activity page preview"> | <img src="interiors/2026-10-31/big_planes/slide_04.jpg" width="280" alt="Actual Big Planes Master Pilot certificate page preview"> |
 
-**For parents and educators:** [Try our free three-colour vehicle spotting activity](editorial/vehicle-colour-spotting-activity.md) — a short original idea that works with any vehicle picture. No purchase required.
+**For parents and educators:** [Try our free three-colour vehicle spotting activity](https://little-hands-coloring-books.sublimecypress2.chatgpt.site/vehicle-colour-spotting.html) — a short original idea that works with any vehicle picture. No purchase required.
 
 ### How colour-by-dots works
 
