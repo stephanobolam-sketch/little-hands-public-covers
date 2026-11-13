@@ -2,7 +2,9 @@
 
 **Real vehicle colouring activities. Four progressive colour-by-dots levels. Completion rewards.**
 
-**Explore the books and their real approved page previews:** [Little Hands collection](index.html) · [Big Machines construction vehicle colouring](big-machines.html) · [Big Planes airplane and helicopter colouring](big-planes.html) · [Fast Cars racing car colouring](fast-cars.html).
+**Choose a book on Amazon US:** [Big Machines — construction vehicle colouring](https://www.amazon.com/dp/B0HQ1CDZ77) · [Big Planes — airplane and helicopter colouring](https://www.amazon.com/dp/B0HPZVLV5T) · [Fast Cars — racing car colouring](https://www.amazon.com/dp/B0HQYS1XXW).
+
+Scroll down to see real approved activity-page previews before choosing.
 
 
 
